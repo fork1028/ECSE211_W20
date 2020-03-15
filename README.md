@@ -2,6 +2,7 @@
 Repository for archiving the labs done in ECSE211 (Design principles and methods) @ McGill
 
 * Under LeJOS (Lego Java Operating System)
+* LeJOS Documentation: http://www.lejos.org/ev3/docs/
 
 ## Lab Contents
 * <b>Lab1: Wall Following</b><br>
