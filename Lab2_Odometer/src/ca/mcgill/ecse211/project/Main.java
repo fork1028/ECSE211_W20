@@ -51,8 +51,11 @@ public class Main {
    */
   private static int chooseDriveInSquareOrFloatMotors() {
     int buttonChoice;
-    Display.showText("< Left | Right >", "       |        ", " Float | Drive  ", "motors | in a   ",
-        "       | square ");
+    Display.showText("< Left | Right >",
+		     "       |        ", 
+		     " Float | Drive  ", 
+		     "motors | in a   ",
+        	     "       | square ");
 
     do {
       buttonChoice = Button.waitForAnyPress(); // left or right press
